@@ -1,0 +1,38 @@
+.weatherCard{
+    display: inline-block;
+    background-color: #F3F3F3;
+    border: 1px solid lightgray;
+    padding: 1rem 2rem 1rem 2rem;
+}
+#forecastSection{
+    margin: 2rem;
+    text-align: center;
+}
+.date{
+    color: #3D74C8;
+    font-weight: 500;
+}
+.minmax{
+    margin: 1rem 0rem;
+}
+.wtImg{
+    font-size: 5rem;
+    margin: 1rem;
+    max-height: 7rem;
+    min-height: 7rem;
+}
+#cityQuery{
+    width: 22rem;
+    display: inline-block;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+.title{
+    text-align: center;
+}
